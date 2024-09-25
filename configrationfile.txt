@@ -1,0 +1,18 @@
+1000000000
+10
+12
+010101010101
+333333333333
+1500
+5
+62
+
+
+// LineRate
+// CaptureSizeS
+// MinNumOfIFGsPerPacket
+// DestAddress
+// SourceAddress
+// MaxPacketSize
+// BurstSize
+// BurstPeriodicity_us
