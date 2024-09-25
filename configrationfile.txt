@@ -1,18 +1,8 @@
-1000000000
-10
-12
-010101010101
-333333333333
-1500
-5
-62
-
-
-// LineRate
-// CaptureSizeS
-// MinNumOfIFGsPerPacket
-// DestAddress
-// SourceAddress
-// MaxPacketSize
-// BurstSize
-// BurstPeriodicity_us
+1000000000    // lineRate
+10            // captureDurationMs
+12            //minIFGsinPacket
+010101010101  //destMacAddr
+333333333333   //srcMacAddr
+1500           //maxPacketSize
+5             //burstCount
+62            //burstPeriodinUs
