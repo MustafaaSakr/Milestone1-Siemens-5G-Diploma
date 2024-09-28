@@ -1,8 +1,8 @@
-10    // lineRate
-10            // captureDurationMs
-12            //minIFGsinPacket
-010101010101  //destMacAddr
-333333333333   //srcMacAddr
-1500           //maxPacketSize
-3            //burstCount
-100         //burstPeriodinUs
+10                // lineRate
+10               // captureDurationMs
+12              //minIFGsinPacket
+010101010101   //destMacAddr
+333333333333  //srcMacAddr
+1500         //maxPacketSize
+3           //burstCount
+100        //burstPeriodinUs
