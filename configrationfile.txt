@@ -1,4 +1,4 @@
-10*10^9    // lineRate
+10    // lineRate
 10            // captureDurationMs
 12            //minIFGsinPacket
 010101010101  //destMacAddr
